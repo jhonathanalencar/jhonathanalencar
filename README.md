@@ -4,8 +4,8 @@ Desenvolvedor front-end.<br/>
 Atualmente estudando Next.js e Node.js.
 
 <div>
-  <a href="https://github.com/rykasa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rykasa&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/jhonathanalencar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanalencar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br/>
