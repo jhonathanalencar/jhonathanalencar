@@ -5,9 +5,9 @@ Atualmente estudando Next.js e Node.js.
 
 <div>
   <a href="https://github.com/jhonathanalencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanalencar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanalencar&layout=compact&theme=dark&langs_count=7"/>
 </div>
-
+  
 <div style="display: inline_block"><br/>
   <img align="center" alt="Javascript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
